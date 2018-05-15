@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3492" started-at="2018-05-15T09:50:15Z" finished-at="2018-05-15T09:50:18Z">
+  <suite name="Default suite" duration-ms="3394" started-at="2018-05-15T11:56:59Z" finished-at="2018-05-15T11:57:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3492" started-at="2018-05-15T09:50:15Z" finished-at="2018-05-15T09:50:18Z">
-      <class name="com.rise.testcases.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.rise.testcases.LoginTest@63753b6d]" name="setup" is-config="true" duration-ms="18333" started-at="2018-05-15T15:19:57Z" finished-at="2018-05-15T15:20:15Z">
+    <test name="Default test" duration-ms="3394" started-at="2018-05-15T11:56:59Z" finished-at="2018-05-15T11:57:03Z">
+      <class name="com.rise.testcases.BankManagerLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.rise.testcases.BankManagerLoginTest@63753b6d]" name="setup" is-config="true" duration-ms="11719" started-at="2018-05-15T17:26:48Z" finished-at="2018-05-15T17:26:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.rise.testcases.LoginTest@63753b6d]" name="loginAsBankManager" duration-ms="3467" started-at="2018-05-15T15:20:15Z" finished-at="2018-05-15T15:20:18Z">
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.rise.testcases.BankManagerLoginTest@63753b6d]" name="loginAsBankManager" duration-ms="3362" started-at="2018-05-15T17:26:59Z" finished-at="2018-05-15T17:27:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAsBankManager -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.rise.testcases.LoginTest@63753b6d]" name="tearDown" is-config="true" duration-ms="1562" started-at="2018-05-15T15:20:19Z" finished-at="2018-05-15T15:20:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.rise.testcases.BankManagerLoginTest@63753b6d]" name="tearDown" is-config="true" duration-ms="1521" started-at="2018-05-15T17:27:03Z" finished-at="2018-05-15T17:27:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.rise.testcases.LoginTest -->
+      </class> <!-- com.rise.testcases.BankManagerLoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
