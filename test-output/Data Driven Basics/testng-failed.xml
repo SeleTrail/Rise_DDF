@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Basics]">
-  <test name="LoginTest(failed)">
+  <test name="AddCustomerTest(failed)">
     <classes>
-      <class name="com.rise.testcases.LoginTest">
+      <class name="com.rise.testcases.AddCustomerTest">
         <methods>
-          <include name="loginAsBankManager"/>
           <include name="tearDown"/>
+          <include name="addCustomer"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.rise.testcases.LoginTest -->
+      </class> <!-- com.rise.testcases.AddCustomerTest -->
     </classes>
-  </test> <!-- LoginTest(failed) -->
+  </test> <!-- AddCustomerTest(failed) -->
 </suite> <!-- Failed suite [Data Driven Basics] -->

@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Data Driven Basics">
-  <test  name="LoginTest">
-    <classes>
-          <class name="com.rise.testcases.BankManagerLoginTest"/>
-    </classes>
-  </test> <!-- Test -->
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener
+			class-name="com.rise.listeners.CustomListeners" />
+	</listeners>
+
+	<test name="Bank Manager LoginTest">
+		<classes>
+			<class name="com.rise.testcases.BankManagerLoginTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Add Customer Test">
+		<classes>
+			<class name="com.rise.testcases.AddCustomerTest" />
+		</classes>
+	</test> <!-- Test -->
+
+
 </suite> <!-- Suite -->
  
