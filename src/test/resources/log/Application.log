@@ -1,9 +1,9 @@
-16/05/2018 15:33:50 devpinoyLogger Test Exectution Starting !!!
-16/05/2018 15:33:50 devpinoyLogger config file loaded !!!
-16/05/2018 15:33:50 devpinoyLogger OR file loaded !!!
-16/05/2018 15:33:57 devpinoyLogger Firefox Browser Launched !!!
-16/05/2018 15:34:02 devpinoyLogger Navigated to = http://www.way2automation.com/angularjs-protractor/banking/#/login
-16/05/2018 15:34:02 devpinoyLogger Inside Login Test
-16/05/2018 15:34:03 devpinoyLogger Navigated to Bank Manager Page
-16/05/2018 15:34:06 devpinoyLogger  Login successful
-16/05/2018 15:34:11 devpinoyLogger Test Exectution Completed
+25/07/2018 10:44:48 devpinoyLogger Test Exectution Starting !!!
+25/07/2018 10:44:48 devpinoyLogger config file loaded !!!
+25/07/2018 10:44:48 devpinoyLogger OR file loaded !!!
+25/07/2018 10:44:54 devpinoyLogger Firefox Browser Launched !!!
+25/07/2018 10:44:59 devpinoyLogger Navigated to = http://www.way2automation.com/angularjs-protractor/banking/#/login
+25/07/2018 10:44:59 devpinoyLogger Inside Login Test
+25/07/2018 10:45:00 devpinoyLogger Navigated to Bank Manager Page
+25/07/2018 10:45:03 devpinoyLogger  Login successful
+25/07/2018 10:45:07 devpinoyLogger Test Exectution Completed

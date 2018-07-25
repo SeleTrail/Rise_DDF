@@ -1,9 +1,9 @@
-15:33:50,226 DEBUG devpinoyLogger:53 - Test Exectution Starting !!!
-15:33:50,230 DEBUG devpinoyLogger:65 - config file loaded !!!
-15:33:50,231 DEBUG devpinoyLogger:79 - OR file loaded !!!
-15:33:57,202 DEBUG devpinoyLogger:91 - Firefox Browser Launched !!!
-15:34:02,655 DEBUG devpinoyLogger:108 - Navigated to = http://www.way2automation.com/angularjs-protractor/banking/#/login
-15:34:02,935 DEBUG devpinoyLogger:16 - Inside Login Test
-15:34:03,605 DEBUG devpinoyLogger:18 - Navigated to Bank Manager Page
-15:34:06,607 DEBUG devpinoyLogger:20 -  Login successful
-15:34:11,486 DEBUG devpinoyLogger:135 - Test Exectution Completed
+10:44:48,794 DEBUG devpinoyLogger:53 - Test Exectution Starting !!!
+10:44:48,794 DEBUG devpinoyLogger:65 - config file loaded !!!
+10:44:48,794 DEBUG devpinoyLogger:79 - OR file loaded !!!
+10:44:54,261 DEBUG devpinoyLogger:91 - Firefox Browser Launched !!!
+10:44:59,331 DEBUG devpinoyLogger:108 - Navigated to = http://www.way2automation.com/angularjs-protractor/banking/#/login
+10:44:59,487 DEBUG devpinoyLogger:16 - Inside Login Test
+10:45:00,175 DEBUG devpinoyLogger:18 - Navigated to Bank Manager Page
+10:45:03,211 DEBUG devpinoyLogger:20 -  Login successful
+10:45:07,427 DEBUG devpinoyLogger:135 - Test Exectution Completed

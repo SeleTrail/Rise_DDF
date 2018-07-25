@@ -20,10 +20,8 @@ public class BankManagerLoginTest extends TestBase{
 		log.debug(" Login successful");
 		Reporter.log(" Login successfully executed");
 		
-		
+		//comment
 		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("addcust"))));
-		
-		Assert.fail("This is failure test");
 		
 	}
 

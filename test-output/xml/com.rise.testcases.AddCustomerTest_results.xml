@@ -4,13 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.342">
+           time="2.904">
   <properties />
   
   
-            <testcase name="addCustomer" time="1.231" classname="com.rise.testcases.AddCustomerTest" />
-                <testcase name="addCustomer" time="0.749" classname="com.rise.testcases.AddCustomerTest" />
-                <testcase name="addCustomer" time="0.640" classname="com.rise.testcases.AddCustomerTest" />
-                <testcase name="addCustomer" time="0.722" classname="com.rise.testcases.AddCustomerTest" />
+            <testcase name="addCustomer" time="0.578" classname="com.rise.testcases.AddCustomerTest" />
+                <testcase name="addCustomer" time="0.593" classname="com.rise.testcases.AddCustomerTest" />
+                <testcase name="addCustomer" time="1.108" classname="com.rise.testcases.AddCustomerTest" />
+                <testcase name="addCustomer" time="0.625" classname="com.rise.testcases.AddCustomerTest" />
       
 </testsuite>
